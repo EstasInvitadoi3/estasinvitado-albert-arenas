@@ -6,8 +6,8 @@
     "file": "./assets/reference-sealed-72ef9639.webp",
     "bytes": 159920
   },
-  "totalBytesBeforeReport": 9707745,
-  "htmlBytes": 1848,
+  "totalBytesBeforeReport": 9707787,
+  "htmlBytes": 1876,
   "resources": [
     {
       "path": "assets/index-BX84fiwU.js",
@@ -219,15 +219,15 @@
     },
     {
       "path": "index.html",
-      "bytes": 1848,
-      "sha256": "dd009a61d002a4ca42398d968c7d37fffa9ea08c79d5cb9b59612ce3defa08ce",
+      "bytes": 1876,
+      "sha256": "f2eff91089924f73dd44e012fa1546bfc825603047fe2a16bbfc6c544e915c83",
       "kind": "document",
       "immutable": false
     },
     {
       "path": "invitacion-config.js",
-      "bytes": 1623,
-      "sha256": "6f35e5b63957dc981022a94b9a9e665bc21dba3f0e663ed6bbd0e2509446e89d",
+      "bytes": 1630,
+      "sha256": "c8d723604eddc93f758e7e36b75acc975d625e3b9e07b99e28a56c6e2065d9b4",
       "kind": "document",
       "immutable": false
     },
@@ -240,8 +240,8 @@
     },
     {
       "path": "LEEME.txt",
-      "bytes": 1251,
-      "sha256": "27067f72b6f0aafca6ed02dd564637cee12c2298e726734ccb5753ce0f96e9b5",
+      "bytes": 1258,
+      "sha256": "224fefe105897393f8b4bc4061407022e8c90ef91ab0fb586dd090a1ffe30a0e",
       "kind": "document",
       "immutable": false
     }

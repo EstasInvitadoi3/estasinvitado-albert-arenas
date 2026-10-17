@@ -4,7 +4,7 @@ window.INVITATION_DATA = {
   "eyebrow": "INVITACIÓN ESPECIAL",
   "title": "Cena especial",
   "subtitle": "Te invitamos a compartir",
-  "admission": "Pase para 2 personas",
+  "admission": "Pase para 3 personas",
   "date": "Viernes 23 de octubre de 2026",
   "dateISO": "2026-10-23",
   "time": "6:00 p. m.",
@@ -16,7 +16,7 @@ window.INVITATION_DATA = {
   "id": "albert-arenas",
   "filename": "invitacion-albert-arenas.html",
   "recipient": "Magíster Albert Arenas",
-  "companion": "y esposa"
+  "companion": "y esposa e hijo"
 };
 
 window.INVITATION_ASSETS = {
